@@ -1,0 +1,11 @@
+name: anaconda-lab
+mgmt:
+  network: anaconda-lab
+ 
+
+topology:
+  nodes:
+    colector:
+      kind: linux
+      image: anaconda/miniconda:latest 
+     
