@@ -7,5 +7,5 @@ topology:
   nodes:
     colector:
       kind: linux
-      image: anaconda/miniconda:latest 
+      image: esanchezv/bnpy:latest                                                                           
      
