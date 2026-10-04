@@ -7,7 +7,7 @@ topology:
   nodes:
     colector:
       kind: linux
-      image: esanchezv/bnpy:latest  
+      image: anaconda/miniconda:latest  
       binds:
        
        - csvs:/root/csvs
